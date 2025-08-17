@@ -1,4 +1,3 @@
-# lwe-cryptanalysis-milp
 # EE793 Course Project Cryptanalysis of the Learning With Errors (LWE) Problem using MILP
 
 ## 📌 Overview
